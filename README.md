@@ -4,8 +4,8 @@
  
 <p align="center">
   🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade São Judas Tadeu<br>
-  🤖 Interessado em <strong>Inteligência Artificial</strong> e <strong> Backend</strong><br>
-  💡 Apaixonado por tecnologia com impacto social<br>
+  🤖 Interessada em <strong> Desenvolvimento Backend</strong> e<strong> Inteligência Artificial</strong><br>
+  💡 Apaixonada por tecnologia com impacto social<br>
 </p>
  
 ---
