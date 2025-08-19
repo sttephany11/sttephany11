@@ -3,9 +3,9 @@
 <h2 align="center">👋🏼 Olá! Me chamo <strong>Stephany</strong></h2>
  
 <p align="center">
-  🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade São Judas Tadeu<br>
-  🤖 Interessada em <strong> Desenvolvimento Backend</strong> e<strong> Inteligência Artificial</strong><br>
-  💡 Apaixonada por tecnologia com impacto social<br>
+ 🎓 Técnica em Desenvolvimento de Sistemas pela ETEC de Guaianazes <br>
+ 📚 Estudante de Análise e Desenvolvimento de Sistemas na Universidade São Judas <br>
+ 🚀 Apaixonada por desenvolvimento Backend 
 </p>
  
 ---
@@ -29,9 +29,24 @@
 ### 🧠 Tecnologias e Ferramentas
  
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,js,php,laravel,java,arduino" />
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,figma" />
-<img src="https://skillicons.dev/icons?i=mysql,postman,git,github,vscode,pycharm,eclipse" />
+  <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+  <img src="https://skillicons.dev/icons?i=js" title="JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=php" title="PHP"/>
+  <img src="https://skillicons.dev/icons?i=laravel" title="Laravel"/>
+  <img src="https://skillicons.dev/icons?i=java" title="Java"/>
+  <img src="https://skillicons.dev/icons?i=arduino" title="Arduino"/>
+  <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" title="Bootstrap"/>
+  <img src="https://skillicons.dev/icons?i=figma" title="Figma"/>
+  <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+  <img src="https://skillicons.dev/icons?i=git" title="Git"/>
+  <img src="https://skillicons.dev/icons?i=github" title="GitHub"/>
+  <img src="https://skillicons.dev/icons?i=vscode" title="VS Code"/>
+  <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm"/>
+  <img src="https://skillicons.dev/icons?i=eclipse" title="Eclipse"/>
+ 
 </p>
  
 ---
@@ -55,5 +70,5 @@
 ---
  
 <p align="center">
-<samp>“A prática é o melhor caminho para o aprendizado.”</samp>
+<samp>“A mente que se abre a uma nova ideia jamais voltará ao seu tamanho original.” – Albert Einstein</samp>
 </p>
