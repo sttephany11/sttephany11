@@ -4,7 +4,7 @@
  
 <p align="center">
   🎓 Cursando <strong>Análise e Desenvolvimento de Sistemas</strong> na Universidade São Judas Tadeu<br>
-  🤖 Interessado em <strong>Inteligência Artificial</strong> e <strong>Qualidade de Software</strong><br>
+  🤖 Interessado em <strong>Inteligência Artificial</strong> e <strong> Backend</strong><br>
   💡 Apaixonado por tecnologia com impacto social<br>
 </p>
  
@@ -13,13 +13,13 @@
 ### 📬 Contato
  
 <p align="left">
-<a href="https://www.linkedin.com/in/thiagomonteiro51/" target="_blank">
+<a href="https://www.linkedin.com/in/stephany-ramos-5a63112b0/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
 </a>
-<a href="mailto:th.monteiro.r@gmail.com">
+<a href="mailto:rodriguesstephany76@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail" />
 </a>
-<a href="https://www.instagram.com/tthiago__11/" target="_blank">
+<a href="https://www.instagram.com/ste_roodrigues/" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" />
 </a>
 </p>
@@ -42,12 +42,12 @@
 <img 
     alt="GitHub Stats" 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=thiago-git1910&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    src="https://github-readme-stats.vercel.app/api?username=sttephany11&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
   />
 <img 
     alt="Top Langs" 
     height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiago-git1910&layout=compact&theme=tokyonight&custom_title=Linguagens+mais+usadas&langs_count=11"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sttephany11&layout=compact&theme=tokyonight&custom_title=Linguagens+mais+usadas&langs_count=11"
   />
 </p>
  
